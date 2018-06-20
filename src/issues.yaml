@@ -1,0 +1,22 @@
+-
+    event: Youtube blocks blender videos worldwide
+    links:
+        - https://www.blender.org/media-exposure/youtube-blocks-blender-videos-worldwide/
+    timeline:
+        -
+            event: A 2016 talk with over 1M views was blocked for all US viewers
+            from: 2017/12/22
+            to: '*'
+        -
+            event: Entire channel blocked with no prior notification
+            from: 2018/06/15
+            to: '*'
+-
+    event: Youtube blocks MIT videos worldwide
+    links:
+        - https://twitter.com/MITOCW/status/1007943441035268096
+    timeline:
+        -
+            event: Entire channel blocked
+            from: 2018/06/15
+            to: '*'
